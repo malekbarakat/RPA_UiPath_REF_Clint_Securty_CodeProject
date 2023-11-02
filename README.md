@@ -1,8 +1,7 @@
-### Documentation is included in the Documentation folder ###
-
 
 ### REFrameWork Template ###
 **Robotic Enterprise Framework**
+This is RPA Project using the UiPath RE framework this process that is take the specific type of employee's and generate Clint Security code for every employee and update it
 
 * Built on top of *Transactional Business Process* template
 * Uses *State Machine* layout for the phases of automation project
